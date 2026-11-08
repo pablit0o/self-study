@@ -27,10 +27,11 @@ Coursework and Footnotes:
 
 - Analysis I: Fourth Edition by Terence Tao  
 [1] - This was truly the first "self-study" course. All I have is a book, some notebook paper, and the indomitable human spirit. I was tempted to use LLMs to grade my work, but since the intent was to learn I prefer having uncertainty to think-over rather than immediate results. Also, screw corporations. Make your own AI.  
-[2] - Many of the later set theory exercises regurgitate the notion of proving whether something is a bijection or not. I abbreviate this by saying that a bijection is seen if a function maps elements uniquely and comprehensively.  
-[3] - I revert back to the vertical line test each time I need to show a well-defined function. Tao uses this (pg. 48) as well for his proofs.  
-[4] - Tao makes note of the positive natural numbers being denoted as zahlen (Z) plus. I use this definition in many of my proofs.  
-[5] - Although not explicitly mentioned, many of the 4.2 and 4.3 exercises require you to show that negation correlates to "flipping" direction. Thus, the negation of a negation of a number is the number itself.  
+[2] - Any time I refer back to the text, I write down X.A.B.C where X corresponds to the type of formal statement; A corresponds to the chapter number; B corresponds to the topic number; C *may* correspond to the chronological order of the formal statement in relation to other statements. X *may* refer to Axiom (A), Definition (D), Proposition (P), Exercise (E), Lemma (L), or Theorem (T).  
+[3] - Many of the later set theory exercises regurgitate the notion of proving whether something is a bijection or not. I abbreviate this by saying that a bijection is seen if a function maps elements uniquely and comprehensively.  
+[4] - I revert back to the vertical line test each time I need to show a well-defined function. Tao uses this (pg. 48) as well for his proofs.  
+[5] - Tao makes note of the positive natural numbers being denoted as zahlen (Z) plus. I use this definition in many of my proofs.  
+[6] - Although not explicitly mentioned, many of the 4.2 and 4.3 exercises require you to show that negation correlates to "flipping" direction. Thus, the negation of a negation of a number is the number itself.  
 
 - Khan Academy: AP Statistics (https://www.khanacademy.org/math/ap-statistics)  
 [1] - Just as AP CSA, you do not need any other external tools. I recommend typing/writing down notes.  
