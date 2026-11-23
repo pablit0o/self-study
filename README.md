@@ -36,7 +36,9 @@ Coursework and Footnotes:
 
 - 8.01SC: Classical Mechanics  
 [1] - Notation varies differently. This course uses the convention of having "dummy" variables t' and dt' for its integration.  
+[2] - Solutions were compared to the online website: https://nkodali.notion.site/64d4697b147f454d8b6f4b6d1139aa21?v=c22feb6e43e44903a92c09563300d665  
+[3] - Since I forgot to define my unit vectors, it should be noted that pset 2 problem 5 is correct iff the direction of Mg is taken to be positive.  
 
-- 8.02: Electricity and Magnetism
+- 8.02: Electricity and Magnetism  
 [1] - 
 
