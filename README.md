@@ -33,6 +33,7 @@ Coursework and Footnotes:
 [5] - Tao makes note of the positive natural numbers being denoted as zahlen (Z) plus. I use this definition in many of my proofs.  
 [6] - Although not explicitly mentioned, many of the 4.2 and 4.3 exercises require you to show that negation correlates to "flipping" direction. Thus, the negation of a negation of a number is the number itself.  
 [7] - For instances where we want epsilon > 0, it should be formally noted that it is valid to also state sigma > 0, whereby you define sigma being some property attached to epsilon. Ergo sigma = epsilon / 2. Tao shows this multiple times. Thus I sometimes shorthand it by definining two sequences already being sigma-close/steady.  
+[8] - In many of the exercises regarding exponentiation in Chapter 5, I implicity take the already-proven exponential rules from integers and rationals. I don't explicitly state this as P.5.6.3 gives a meta-proof regarding this.  
 
 - 8.01SC: Classical Mechanics  
 [1] - Notation varies differently. This course uses the convention of having "dummy" variables t' and dt' for its integration.  
